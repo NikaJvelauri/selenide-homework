@@ -3,12 +3,97 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f447233-04ce-482d-8a5e-5e80775523d9" name="Default Changelist" comment="" />
+    <list default="true" id="5f447233-04ce-482d-8a5e-5e80775523d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CommandsTest2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommandsTest2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommandsTest2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommandsTest2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommandsTest2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommandsTest2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommandsTest2/CommandsTest2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommandsTest2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommandsTest2/src/test/java/Selenium/commands/CommandsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommandsTest2/target/test-classes/Selenium/commands/CommandsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApp/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApp/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApp/FirstApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApp/out/production/FirstApp/com/company/FirstApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApp/src/com/company/FirstApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstApp/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstApp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstApp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstApp/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstApp/MyFirstApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstApp/out/production/MyFirstApp/com/company/MyFirstApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstApp/src/com/company/MyFirstApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ad/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ad/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ad/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ad/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ad/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ad/ad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ad/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloworld/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloworld/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloworld/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloworld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloworld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloworld/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloworld/helloworld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloworld/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium-homework" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/Java/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/CommandsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SelenideTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SelenideTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -18,9 +103,86 @@
     </option>
   </component>
   <component name="ProjectId" id="1wMiqCt1yJv3lfhUcqZISyWPQgn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../selenium-homework" />
   </component>
+  <component name="RunManager" selected="JUnit.SelenideTests.textBox">
+    <configuration name="SelenideTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenide-homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SelenideTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelenideTests.dropdown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenide-homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SelenideTests" />
+      <option name="METHOD_NAME" value="dropdown" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelenideTests.selenide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenide-homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SelenideTests" />
+      <option name="METHOD_NAME" value="selenide" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelenideTests.selenide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenide-homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SelenideTests" />
+      <option name="METHOD_NAME" value="selenide" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelenideTests.textBox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenide-homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SelenideTests" />
+      <option name="METHOD_NAME" value="textBox" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelenideTests.userCanSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenide-homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SelenideTests" />
+      <option name="METHOD_NAME" value="userCanSearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SelenideTests.textBox" />
+        <item itemvalue="JUnit.SelenideTests.dropdown" />
+        <item itemvalue="JUnit.SelenideTests.selenide" />
+        <item itemvalue="JUnit.SelenideTests" />
+        <item itemvalue="JUnit.SelenideTests.userCanSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5f447233-04ce-482d-8a5e-5e80775523d9" name="Default Changelist" comment="" />
@@ -30,5 +192,68 @@
       <updated>1628275048862</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1628275320697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1628275320697" />
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom" timestamp="1628283284877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1628283284877" />
+    <state width="1877" height="269" key="GridCell.Tab.0.center" timestamp="1628283284876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="269" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1628283284876" />
+    <state width="1877" height="269" key="GridCell.Tab.0.left" timestamp="1628283284876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="269" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1628283284876" />
+    <state width="1877" height="269" key="GridCell.Tab.0.right" timestamp="1628283284877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="269" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1628283284877" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1628277128644">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1628277128644" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1628277128643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1628277128643" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1628277128643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1628277128643" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1628277128644">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1628277128644" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/SelenideTests.java</url>
+          <line>21</line>
+          <properties class="SelenideTests" method="checkbox">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
