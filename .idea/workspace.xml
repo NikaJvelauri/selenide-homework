@@ -22,63 +22,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f447233-04ce-482d-8a5e-5e80775523d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CommandsTest2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandsTest2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandsTest2/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandsTest2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandsTest2/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandsTest2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandsTest2/CommandsTest2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandsTest2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandsTest2/src/test/java/Selenium/commands/CommandsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandsTest2/target/test-classes/Selenium/commands/CommandsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstApp/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstApp/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstApp/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstApp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstApp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstApp/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstApp/FirstApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstApp/out/production/FirstApp/com/company/FirstApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstApp/src/com/company/FirstApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFirstApp/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFirstApp/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFirstApp/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFirstApp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFirstApp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFirstApp/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFirstApp/MyFirstApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFirstApp/out/production/MyFirstApp/com/company/MyFirstApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFirstApp/src/com/company/MyFirstApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ad/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ad/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ad/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ad/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ad/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ad/ad.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ad/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../helloworld/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../helloworld/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../helloworld/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../helloworld/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../helloworld/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../helloworld/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../helloworld/helloworld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../helloworld/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../selenium-homework" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/Java/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/src/CommandsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/test.java" afterDir="false" />
+    <list default="true" id="5f447233-04ce-482d-8a5e-5e80775523d9" name="Default Changelist" comment="Last Commit">
+      <change afterPath="$PROJECT_DIR$/src/test/java/SelenideBasics2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SelenideTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SelenideTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SelenideTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SelenideTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-final-project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-final-project/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-final-project/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-final-project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-final-project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-final-project/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-final-project/selenium-final-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-homework" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-homework" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +49,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -110,9 +66,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../selenium-homework" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="JUnit.SelenideTests.textBox">
+  <component name="RunManager" selected="JUnit.SelenideBasics2Test.books">
+    <configuration name="SelenideBasics2Test.books" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenide-homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SelenideBasics2Test" />
+      <option name="METHOD_NAME" value="books" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SelenideTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selenide-homework" />
       <option name="PACKAGE_NAME" value="" />
@@ -162,23 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelenideTests.userCanSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenide-homework" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SelenideTests" />
-      <option name="METHOD_NAME" value="userCanSearch" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SelenideBasics2Test.books" />
         <item itemvalue="JUnit.SelenideTests.textBox" />
         <item itemvalue="JUnit.SelenideTests.dropdown" />
         <item itemvalue="JUnit.SelenideTests.selenide" />
         <item itemvalue="JUnit.SelenideTests" />
-        <item itemvalue="JUnit.SelenideTests.userCanSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +149,16 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -203,44 +169,53 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1628275320697">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1628275320697" />
-    <state width="1877" height="269" key="GridCell.Tab.0.bottom" timestamp="1628283284877">
+    <state width="1877" height="392" key="GridCell.Tab.0.bottom" timestamp="1629204710502">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1628283284877" />
-    <state width="1877" height="269" key="GridCell.Tab.0.center" timestamp="1628283284876">
+    <state width="1877" height="392" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1629204710502" />
+    <state width="1877" height="392" key="GridCell.Tab.0.center" timestamp="1629204710502">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1628283284876" />
-    <state width="1877" height="269" key="GridCell.Tab.0.left" timestamp="1628283284876">
+    <state width="1877" height="392" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1629204710502" />
+    <state width="1877" height="392" key="GridCell.Tab.0.left" timestamp="1629204710502">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1628283284876" />
-    <state width="1877" height="269" key="GridCell.Tab.0.right" timestamp="1628283284877">
+    <state width="1877" height="392" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1629204710502" />
+    <state width="1877" height="392" key="GridCell.Tab.0.right" timestamp="1629204710502">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1628283284877" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1628277128644">
+    <state width="1877" height="392" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1629204710502" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1628283978333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1628277128644" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1628277128643">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1628283978333" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1628283978333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1628277128643" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1628277128643">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1628283978333" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1628283978333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1628277128643" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1628277128644">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1628283978333" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1628283978333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1628277128644" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1628283978333" />
+    <state x="803" y="222" key="RollbackChangesDialog" timestamp="1628283863448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1628283863448" />
+    <state x="342" y="180" key="new project wizard" timestamp="1628598905994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1628598905994" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -252,6 +227,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/SelenideBasics2Test.java</url>
+          <line>17</line>
+          <properties class="SelenideBasics2Test" method="books">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
