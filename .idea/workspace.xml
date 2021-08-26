@@ -23,10 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f447233-04ce-482d-8a5e-5e80775523d9" name="Default Changelist" comment="Last Commit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/SelenideBasics2Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SelenideAdvancedTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SelenideTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SelenideTests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../selenium-final-project/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../selenium-final-project/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../selenium-final-project/.idea/jarRepositories.xml" beforeDir="false" />
@@ -68,7 +66,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="JUnit.SelenideBasics2Test.books">
+  <component name="RunManager" selected="JUnit.SelenideAdvancedTest.books">
+    <configuration name="SelenideAdvancedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenide-homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SelenideAdvancedTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelenideAdvancedTest.books" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenide-homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SelenideAdvancedTest" />
+      <option name="METHOD_NAME" value="books" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SelenideBasics2Test.books" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selenide-homework" />
       <option name="PACKAGE_NAME" value="" />
@@ -79,30 +96,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelenideTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenide-homework" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SelenideTests" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SelenideTests.dropdown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selenide-homework" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SelenideTests" />
       <option name="METHOD_NAME" value="dropdown" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SelenideTests.selenide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenide-homework" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SelenideTests" />
-      <option name="METHOD_NAME" value="selenide" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SelenideAdvancedTest.books" />
+        <item itemvalue="JUnit.SelenideAdvancedTest" />
         <item itemvalue="JUnit.SelenideBasics2Test.books" />
         <item itemvalue="JUnit.SelenideTests.textBox" />
         <item itemvalue="JUnit.SelenideTests.dropdown" />
-        <item itemvalue="JUnit.SelenideTests.selenide" />
-        <item itemvalue="JUnit.SelenideTests" />
       </list>
     </recent_temporary>
   </component>
@@ -176,22 +174,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1628275320697" />
-    <state width="1877" height="392" key="GridCell.Tab.0.bottom" timestamp="1629204710502">
+    <state width="1877" height="151" key="GridCell.Tab.0.bottom" timestamp="1629981837161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="392" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1629204710502" />
-    <state width="1877" height="392" key="GridCell.Tab.0.center" timestamp="1629204710502">
+    <state width="1877" height="151" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1629981837161" />
+    <state width="1877" height="151" key="GridCell.Tab.0.center" timestamp="1629981837161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="392" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1629204710502" />
-    <state width="1877" height="392" key="GridCell.Tab.0.left" timestamp="1629204710502">
+    <state width="1877" height="151" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1629981837161" />
+    <state width="1877" height="151" key="GridCell.Tab.0.left" timestamp="1629981837161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="392" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1629204710502" />
-    <state width="1877" height="392" key="GridCell.Tab.0.right" timestamp="1629204710502">
+    <state width="1877" height="151" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1629981837161" />
+    <state width="1877" height="151" key="GridCell.Tab.0.right" timestamp="1629981837161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="392" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1629204710502" />
+    <state width="1877" height="151" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1629981837161" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1628283978333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -235,6 +233,19 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/SelenideAdvancedTest.java</url>
+          <line>67</line>
+          <properties class="SelenideAdvancedTest" method="books">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SelenideAdvancedTest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
